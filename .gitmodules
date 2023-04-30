@@ -1,0 +1,3 @@
+[submodule "JavaScript-Course"]
+	path = JavaScript-Course
+	url = https://github.com/LitFill/web-course.git
